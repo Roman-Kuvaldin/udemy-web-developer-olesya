@@ -101,3 +101,55 @@ h2.title {
 .more {
   margin-top: 73px;
 }
+.more .more_text {
+  color: #ffffff;
+  font-family: "Roboto - Thin";
+  font-size: 15px;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.more .more_img {
+  display: block;
+  margin: 0 auto;
+  margin-top: 15px
+
+}
+
+.waiting {
+  height: 604px;
+  background-color: #efefef;
+  padding: 85px 0 75px;
+}
+
+.waiting .waiting_header {
+  color: #252525;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 12px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.waiting .waiting_divider {
+width: 217px;
+height: 4px;
+background-color: #f9bf3b;
+margin: 0 auto;
+margin-top: 18px;
+}
+
+.waiting .waiting_subheader {
+  margin-top: 17px;
+  color: #4a4a4a;
+  font-family: Roboto;
+  font-size: 23px;
+  font-weight: 400;
+  text-align: center;
+
+}
+
+
+
